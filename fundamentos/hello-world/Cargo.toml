@@ -1,0 +1,10 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+path = "src/hello_world.rs"
+name = "Hola_Rust"
+
+[dependencies]
